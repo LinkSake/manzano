@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+## Base URL for the site
+baseURL = 'https://linksake.github.io/manzano'
+## Site title
+title = 'Alejandro Manzano'
+## Use hugo-brewm theme
+theme = 'hugo-brewm'
+## Convert all URLs to absolute URLs
+canonifyURLs = false
+## Default language for content
+defaultContentLanguage = 'es'
+
+[params.comments]
+disabled = true
+## Comments configuration
+## Comment platform selection, currently only 'fediverse' is supported, further options to be determined
+# platform = 'fediverse'
+
+## Fediverse integration settings
+[params.fediverse]
+## Fediverse instance URL
+instance = 'example.com'
+## Fediverse username
+username = 'username'
