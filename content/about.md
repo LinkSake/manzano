@@ -1,9 +1,13 @@
-Magnam sit ex totam consequatur quisquam sed rem. Et fuga ut nemo nesciunt. Ut possimus aut ad aut quo tempore et quisquam. Consequatur velit in harum. Voluptatum sed provident minima et minus.
+---
+title: Sobre Mi
+subtitle: "Subtitulo. Officia itaque laborum saepe. Non voluptate aspernatur modi quae."
+skipReadingTime: true
+---
 
-Repellat quod blanditiis quae nam. Placeat vel ipsum et excepturi. Nesciunt animi et fugiat nostrum cum repellat non et.
+![Alejandro Manzano](/images/portait-1a.jpg)
 
-Ipsa ipsum et placeat voluptas. Nostrum cupiditate dolorem expedita ab. Incidunt sint et ea voluptates qui. Nemo in fugiat nulla accusantium voluptate est.
+Escritor de ciencia-ficción, autor de la antología de cuentos Archivo Trastorno. Colección de Fragmentos (Programa Editorial Chihuahua, 2022; Laripse, 2023). Director de nueve talleres de Creación Literaria en Chihuahua, Chihuahua. Beneficiario del Fondo Municipal para Artistas y Creadores en 2024 (FOMAC 7).
 
-Distinctio labore iste nostrum vitae sed neque iure. Rerum repudiandae et consequatur debitis amet quasi. Voluptatum magni reprehenderit inventore aut quia. Voluptas sed voluptatem est doloremque autem perferendis laudantium similique. A impedit consequatur officiis molestias provident eum quisquam.
+## Contacto
 
-Rerum fuga vero inventore qui non fuga aliquid. Sed maiores velit eum consequatur. Vel sunt exercitationem neque eveniet deserunt voluptate et.
+Te invito a contactarme a traves de [Facebook](), [Instagram](), [WhatsApp]() o por correo a [contacto@alejandromanzano.mx]()

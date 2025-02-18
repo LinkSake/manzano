@@ -5,14 +5,43 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Alejandro Manzano</description>
     <generator>Hugo</generator>
-    <language>es</language>
+    <language>es-MX</language>
+    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Esta es una prueba</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Otra presentacion chida</title>
+      <link>http://localhost:1313/portfolio/otro/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/otro/</guid>
+      <description>&lt;p&gt;Esta entrada en el portafolio no tiene subtitulo ni imagen, para que te des una idea de como se ve.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presentación de Archivo Transtorno</title>
+      <link>http://localhost:1313/portfolio/presetacion-museo-sebastian/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/presetacion-museo-sebastian/</guid>
+      <description>&lt;p&gt;DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of &lt;em&gt;run-time evolution and adaptation&lt;/em&gt; (i.e., enabling run-time flexibility) while &lt;em&gt;minimizing the non-deterministic nature of traditional event-based applications&lt;/em&gt; (i.e., supporting formal analysis).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tejiendo Relatos - Primer Grupo</title>
+      <link>http://localhost:1313/portfolio/tejiendo-relatos/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/tejiendo-relatos/</guid>
+      <description>&lt;p&gt;This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre Mi</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Magnam sit ex totam consequatur quisquam sed rem. Et fuga ut nemo nesciunt. Ut possimus aut ad aut quo tempore et quisquam. Consequatur velit in harum. Voluptatum sed provident minima et minus.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/portait-1a.jpg&#34; alt=&#34;Alejandro Manzano&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Escritor de ciencia-ficción, autor de la antología de cuentos Archivo Trastorno. Colección de Fragmentos (Programa Editorial Chihuahua, 2022; Laripse, 2023). Director de nueve talleres de Creación Literaria en Chihuahua, Chihuahua. Beneficiario del Fondo Municipal para Artistas y Creadores en 2024 (FOMAC 7).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
