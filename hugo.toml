@@ -1,23 +1,61 @@
-## Base URL for the site
-baseURL = 'https://linksake.github.io/manzano'
-## Site title
-title = 'Alejandro Manzano'
-## Use hugo-brewm theme
-theme = 'hugo-brewm'
-## Convert all URLs to absolute URLs
-canonifyURLs = false
-## Default language for content
-defaultContentLanguage = 'es'
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "es"
+title = "Alejandro Manzano"
+theme = "triple-hyde"
 
-[params.comments]
-disabled = true
-## Comments configuration
-## Comment platform selection, currently only 'fediverse' is supported, further options to be determined
-# platform = 'fediverse'
+## Hugo Built-in Features
+enableRobotsTXT = true
+summarylength = 30
+# paginate = 5
 
-## Fediverse integration settings
-[params.fediverse]
-## Fediverse instance URL
-instance = 'example.com'
-## Fediverse username
-username = 'username'
+## Site Settings
+[params]
+    author = "Alejandro Manzano"
+    title = "Alejandro Manzano"
+    # description = "Escritor de ciencia-ficción"
+    # authorimage = "images/portait-1a.jpg"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    logoimage = "images/logo-4.png"
+    copyright = "Alejandro Manzano"
+    since = 2025
+    showBuiltWith = false
+
+    # highlightjs
+    highlightjs = false
+
+## Social Accounts
+[params.social]
+    instagram = "alejandroyid"
+    linkedin = "<username>"
+    facebook = "<username>"
+    email = "contacto@alejandromanzano.mx"
+
+## Main Menu
+[[menu.main]]
+    name = "Sobre mi"
+    identifier = "about"
+    weight = 50
+    url = "/about/"
+[[menu.main]]
+    name = "Publicaciones"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Archivo Transtorno  ➝"
+    identifier = "AT"
+    weight = 200
+    url = "https://www.amazon.com.mx/Archivo-Trastorno-Colecci%C3%B3n-fragmentos-Spanish/dp/6078244663?ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b"
+[[menu.main]]
+    name = "The Pitch ➝"
+    identifier = "TP"
+    weight = 250
+    url = "https://alejandro-manzano.itch.io/the-pitch"
+[[menu.main]]
+    name = "El Telar ➝"
+    identifier = "ET"
+    weight = 300
+    url = "https://eltelar.xyz/"

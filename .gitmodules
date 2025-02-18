@@ -1,3 +1,6 @@
-[submodule "themes/hugo-brewm"]
-	path = themes/hugo-brewm
-	url = https://github.com/foxihd/hugo-brewm
+[submodule "triple-hyde"]
+	path = triple-hyde
+	url = git@github.com:derme302/triple-hyde.git
+[submodule "themes/triple-hyde"]
+	path = themes/triple-hyde
+	url = git@github.com:derme302/triple-hyde.git
