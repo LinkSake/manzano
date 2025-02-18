@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://linksake.github.io/manzano/"
 languageCode = "es-MX"
 title = "Alejandro Manzano"
 theme = "triple-hyde"
