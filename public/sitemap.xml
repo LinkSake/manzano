@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>http://localhost:1313/manzano/posts/test/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/manzano/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/manzano/categories/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/literatura/</loc>
+    <loc>http://localhost:1313/manzano/tags/literatura/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/manzano/posts/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/publicaciones/</loc>
+    <loc>http://localhost:1313/manzano/categories/publicaciones/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sci-fi/</loc>
+    <loc>http://localhost:1313/manzano/tags/sci-fi/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/manzano/tags/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/videojuegos/</loc>
+    <loc>http://localhost:1313/manzano/tags/videojuegos/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/otro/</loc>
+    <loc>http://localhost:1313/manzano/portfolio/otro/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/manzano/portfolio/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/presetacion-museo-sebastian/</loc>
+    <loc>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tejiendo-relatos/</loc>
+    <loc>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/manzano/about/</loc>
   </url>
 </urlset>

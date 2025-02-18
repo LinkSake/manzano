@@ -2,7 +2,7 @@
 title: "Presentación de Archivo Transtorno"
 description: "Se presentó el libro en el museo sebastian y asi"
 link: https://tiempo.com.mx/
-screenshot: /images/presentacion-1.jpg
+screenshot: /manzano/images/presentacion-1.jpg
 date: '2023-08-21'
 layout: 'portfolio'
 ---

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publicaciones on Alejandro Manzano</title>
-    <link>http://localhost:1313/categories/publicaciones/</link>
+    <link>http://localhost:1313/manzano/categories/publicaciones/</link>
     <description>Recent content in Publicaciones on Alejandro Manzano</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
     <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/manzano/categories/publicaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esta es una prueba</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/manzano/posts/test/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/manzano/posts/test/</guid>
       <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
   </channel>

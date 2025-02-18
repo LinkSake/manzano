@@ -2,7 +2,7 @@
 title: "Tejiendo Relatos - Primer Grupo"
 description: "La primer edición del gran taller de escritura chihuahuense"
 link: https://duckduckgo.com/
-screenshot: /images/taller-1.jpg
+screenshot: /manzano/images/taller-1.jpg
 date: '2018-06-21'
 layout: 'portfolio'
 ---
