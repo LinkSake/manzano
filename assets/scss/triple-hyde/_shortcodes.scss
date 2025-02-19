@@ -12,3 +12,61 @@ img[src$='#floatright'] {
     float:right;
     margin: 0.7rem;
 }
+
+.display {
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  background-color: $link-color;
+
+  h2 {
+    font-size: 3.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #fbffe4;
+  }
+
+  hr {
+    color: white;
+  }
+
+  a {
+    color: #fbffe4;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  img.display-img {
+    width: 55%;
+    display: inline;
+  }
+
+  .display-img-quote {
+    display: flex;
+  }
+
+  .display-quote {
+    width: 45%;
+    margin-left: 1rem;
+    margin-bottom:2rem;
+  }
+
+  .display-cta {
+    padding: 1rem;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    border-radius: 0.5rem;
+    background-color: #fbffe4;
+
+    a {
+      color: $link-color;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

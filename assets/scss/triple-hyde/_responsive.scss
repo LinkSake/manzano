@@ -78,6 +78,27 @@
     .social {
         padding: 1em 0 1em 0;
     }
+
+    .display {
+        h2 {
+            font-size: 2rem;
+        }
+    
+        img.display-img {
+            width: 100%;
+            display: block;
+        }
+
+        .display-img-quote {
+            display: block;
+        }
+
+        .display-quote {
+            width: 100%;
+            margin-left: 0rem;
+            margin-bottom: 0rem;
+        }
+    }
 }
 
 // tablet/medium device ~768px+
