@@ -23,7 +23,10 @@
     }
 
     .sidebar-footer {
-        margin-top: 24rem;
+        position: absolute;
+        bottom: 2rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
     }
 }
 
