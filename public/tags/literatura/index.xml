@@ -6,14 +6,14 @@
     <description>Recent content in Literatura on Alejandro Manzano</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manzano/tags/literatura/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Esta es una prueba</title>
-      <link>http://localhost:1313/manzano/posts/test/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/posts/test/</guid>
-      <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
+      <title>El método de Sylvia Aguilar Zélezny</title>
+      <link>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;&#xA;&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

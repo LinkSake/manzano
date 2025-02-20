@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alejandro Manzano</title>
+    <title>Publicaciones on Alejandro Manzano</title>
     <link>http://localhost:1313/manzano/posts/</link>
-    <description>Recent content in Posts on Alejandro Manzano</description>
+    <description>Recent content in Publicaciones on Alejandro Manzano</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manzano/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Esta es una prueba</title>
-      <link>http://localhost:1313/manzano/posts/test/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/posts/test/</guid>
-      <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
+      <title>El método de Sylvia Aguilar Zélezny</title>
+      <link>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;&#xA;&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El taller &#34;Tejiendo Relatos&#34; inicia su 4ta edición</title>
+      <link>http://localhost:1313/manzano/posts/tejiendo-relatos-3/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/tejiendo-relatos-3/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reseña: Mario Kart 8</title>
+      <link>http://localhost:1313/manzano/posts/resena-mario-kart-8/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/resena-mario-kart-8/</guid>
+      <description>&lt;p&gt;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

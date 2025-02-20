@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portafolio y otros proyectos on Alejandro Manzano</title>
+    <title>Talleres y Presentaciones on Alejandro Manzano</title>
     <link>http://localhost:1313/manzano/portfolio/</link>
-    <description>Recent content in Portafolio y otros proyectos on Alejandro Manzano</description>
+    <description>Recent content in Talleres y Presentaciones on Alejandro Manzano</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manzano/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Otra presentacion chida</title>
-      <link>http://localhost:1313/manzano/portfolio/otro/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/otro/</guid>
-      <description>&lt;p&gt;Esta entrada en el portafolio no tiene subtitulo ni imagen, para que te des una idea de como se ve.&lt;/p&gt;</description>
+      <title>Presentación Archivo Transtorno</title>
+      <link>http://localhost:1313/manzano/portfolio/presentacion-at/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/presentacion-at/</guid>
+      <description>&lt;p&gt;En el Centro Cultural &amp;ldquo;Quinta Gameros se realizó la presentación del libro &amp;ldquo;Archivo Trastorno&amp;rdquo;, del autor chihuahuense Alejandro Manzano, ganador del Programa Editorial Chihuahua en su Edición 2022 en la colección “Soltar las amarras”, cuya obra forma parte del acervo que desarrolla el Gobierno Municipal de Chihuahua a través de su Instituto de Cultura.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Presentación de Archivo Transtorno</title>
-      <link>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</guid>
-      <description>&lt;p&gt;DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of &lt;em&gt;run-time evolution and adaptation&lt;/em&gt; (i.e., enabling run-time flexibility) while &lt;em&gt;minimizing the non-deterministic nature of traditional event-based applications&lt;/em&gt; (i.e., supporting formal analysis).&lt;/p&gt;</description>
+      <title>Archivo Transtorno en Plantar-té Cafetería</title>
+      <link>http://localhost:1313/manzano/portfolio/at-plantar-te/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-plantar-te/</guid>
+      <description>&lt;p&gt;El escritor Alejandro Manzano, autor local recientemente ganador del Programa Editorial Chihuahua, presentó su libro Archivo Trastorno en Plantar-té Cafetería.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tejiendo Relatos - Primer Grupo</title>
-      <link>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</guid>
-      <description>&lt;p&gt;This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems.&lt;/p&gt;</description>
+      <title>Archivo Transtorno en el CBTis 122</title>
+      <link>http://localhost:1313/manzano/portfolio/at-cbtis-122/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-cbtis-122/</guid>
+      <description>&lt;p&gt;Presentación de Archivo Transtorno y La Fortuna de un Perro junto a César Ilzivir&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Café Icaro</title>
+      <link>http://localhost:1313/manzano/portfolio/at-icaro/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-icaro/</guid>
+      <description>&lt;p&gt;El escritor Alejandro Manzano, autor local recientemente ganador del Programa Editorial Chihuahua, presentó su libro Archivo Trastorno en el Café Ícaro&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Felich</title>
+      <link>http://localhost:1313/manzano/portfolio/at-feria-libro/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-feria-libro/</guid>
+      <description>&lt;p&gt;Participa Alejandro Manzano en el Felich con “Archivo Trastorno”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el CBTis 177 en Cuauthémoc</title>
+      <link>http://localhost:1313/manzano/portfolio/at-cbtis-177/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-cbtis-177/</guid>
+      <description>&lt;p&gt;Presentación de Archivo Transtorno y La Fortuna de un Perro junto a César Ilzivir&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Museo de la Ciudad de Cuauhtémoc</title>
+      <link>http://localhost:1313/manzano/portfolio/at-museo-cuau/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-museo-cuau/</guid>
+      <description>&lt;p&gt;El viernes 11 de noviembre, a las 17:00 horas, en el Museo de la Ciudad, ubicado en el Parque Mirador, se presentará el libro “La fortuna de un perro”, de César Salazar, y el libro “Archivo trastorno”, de Alejandro Manzano. Ambos escritores son chihuahuenses.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

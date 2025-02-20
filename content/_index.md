@@ -1,8 +1,12 @@
-![Alejandro Manzano](images/portait-1a.jpg)
+> _Omnis iure ut quibusdam consequatur cum ut similique. Ullam aliquid impedit quae. Est et aliquam vel deserunt iure. Beatae et exercitationem doloribus enim repellendus officiis._
+>
+> [– Repudiandae, Unde pariatur.](#)
+
+![Alejandro Manzano](images/portaits/1.jpg)
 
 Alejandro es un escritor de ciencia-ficción, autor de la antología de cuentos Archivo Trastorno. Colección de Fragmentos (Programa Editorial Chihuahua, 2022; Laripse, 2023). Director de nueve talleres de Creación Literaria en Chihuahua, Chihuahua. Beneficiario del Fondo Municipal para Artistas y Creadores en 2024 (FOMAC 7).
 
-{{< display title="Archivo Transtorno" img="images/at2.jpg" cta="https://www.amazon.com.mx/dp/6078244663">}}
+{{< display title="Archivo Transtorno" img="images/at-covers/2.jpg" cta="https://www.amazon.com.mx/dp/6078244663">}}
 
 _Es digno reconocer en Alejandro Manzano, un nivel cultural muy vasto y con una imaginación fuera de lo ordinario._
 
@@ -17,7 +21,5 @@ _Archivo Trastorno, de Alejandro Manzano es un excelente libro de ciencia ficci�
 <!-- split -->
 
 Archivo Trastorno es el primer libro del autor mexicano Alejandro Manzano (Chihuahua, 1994). Subtitulado "Colección de fragmentos", este documento es un atentado, un experimento, un grito desesperado y un implacable llamado a la acción directa. En él encontrarás "cuentos", si así quieres llamarlos, que juegan con los formatos de géneros tradicionalmente vistos como no-literatura: la ciencia-ficción se despliega emulando estilos, tonos y toxinas culturales de la noticia, las redes sociales, la reseña académica, el historial de mensajería instantánea, el manifiesto terrorista, y algunos otros.
-Instrucciones de uso: Léase en plena crisis de fe, con el corazón inquieto y la mente abierta al don de la destrucción creativa, que concede la revelación por propincuidad. No recomendado para adultos mayores. Consulte a su médico.
 
 {{< /display >}}
-

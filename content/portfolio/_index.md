@@ -1,3 +1,3 @@
 ---
-title: Portafolio y otros proyectos
+title: Talleres y Presentaciones
 ---

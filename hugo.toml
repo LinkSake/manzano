@@ -6,7 +6,7 @@ theme = "triple-hyde"
 
 ## Hugo Built-in Features
 enableRobotsTXT = true
-summarylength = 30
+summarylength = 15
 
 ## Site Settings
 [params]
@@ -20,7 +20,7 @@ relatedPosts = true
 postNavigation = true
 
 # sidebar, copyright & license
-logoimage = "images/logo-4.png"
+logoimage = "images/logos/3.png"
 copyright = "Alejandro Manzano"
 since = 2025
 showBuiltWith = false
@@ -34,6 +34,7 @@ instagram = "alejandroyid"
 linkedin = "<username>"
 facebook = "<username>"
 email = "contacto@alejandromanzano.mx"
+rss = "/manzano/index.xml/"
 
 ## Main Menu
 [[menu.main]]
@@ -47,7 +48,7 @@ weight = 100
 identifier = "posts"
 url = "/posts/"
 [[menu.main]]
-name = "Portafolio"
+name = "Presentaciones"
 weight = 150
 identifier = "portfolio"
 url = "/portfolio/"

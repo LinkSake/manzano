@@ -2,44 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/manzano/posts/test/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/posts/tejiendo-relatos-3/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/posts/resena-mario-kart-8/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/categories/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/tags/escritura/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/tags/literatura/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/manzano/posts/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/categories/publicaciones/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manzano/tags/sci-fi/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manzano/posts/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/tags/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/tags/talleres/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/tags/rese%C3%B1a/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/categories/rese%C3%B1as/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/tags/videojuegos/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manzano/portfolio/otro/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manzano/portfolio/presentacion-at/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/portfolio/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manzano/portfolio/at-plantar-te/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/manzano/portfolio/at-cbtis-122/</loc>
+    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/portfolio/at-icaro/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/portfolio/at-feria-libro/</loc>
+    <lastmod>2022-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/portfolio/at-cbtis-177/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/manzano/portfolio/at-museo-cuau/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/manzano/about/</loc>
   </url>

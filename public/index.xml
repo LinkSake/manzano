@@ -6,42 +6,84 @@
     <description>Recent content on Alejandro Manzano</description>
     <generator>Hugo</generator>
     <language>es-MX</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/manzano/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Esta es una prueba</title>
-      <link>http://localhost:1313/manzano/posts/test/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/posts/test/</guid>
-      <description>&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
+      <title>El método de Sylvia Aguilar Zélezny</title>
+      <link>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/el-metodo-de-sylvia-aguilar/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;&#xA;&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Otra presentacion chida</title>
-      <link>http://localhost:1313/manzano/portfolio/otro/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/otro/</guid>
-      <description>&lt;p&gt;Esta entrada en el portafolio no tiene subtitulo ni imagen, para que te des una idea de como se ve.&lt;/p&gt;</description>
+      <title>El taller &#34;Tejiendo Relatos&#34; inicia su 4ta edición</title>
+      <link>http://localhost:1313/manzano/posts/tejiendo-relatos-3/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/tejiendo-relatos-3/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Presentación de Archivo Transtorno</title>
-      <link>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/presetacion-museo-sebastian/</guid>
-      <description>&lt;p&gt;DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of &lt;em&gt;run-time evolution and adaptation&lt;/em&gt; (i.e., enabling run-time flexibility) while &lt;em&gt;minimizing the non-deterministic nature of traditional event-based applications&lt;/em&gt; (i.e., supporting formal analysis).&lt;/p&gt;</description>
+      <title>Reseña: Mario Kart 8</title>
+      <link>http://localhost:1313/manzano/posts/resena-mario-kart-8/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/posts/resena-mario-kart-8/</guid>
+      <description>&lt;p&gt;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tejiendo Relatos - Primer Grupo</title>
-      <link>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/manzano/portfolio/tejiendo-relatos/</guid>
-      <description>&lt;p&gt;This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems.&lt;/p&gt;</description>
+      <title>Presentación Archivo Transtorno</title>
+      <link>http://localhost:1313/manzano/portfolio/presentacion-at/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/presentacion-at/</guid>
+      <description>&lt;p&gt;En el Centro Cultural &amp;ldquo;Quinta Gameros se realizó la presentación del libro &amp;ldquo;Archivo Trastorno&amp;rdquo;, del autor chihuahuense Alejandro Manzano, ganador del Programa Editorial Chihuahua en su Edición 2022 en la colección “Soltar las amarras”, cuya obra forma parte del acervo que desarrolla el Gobierno Municipal de Chihuahua a través de su Instituto de Cultura.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en Plantar-té Cafetería</title>
+      <link>http://localhost:1313/manzano/portfolio/at-plantar-te/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-plantar-te/</guid>
+      <description>&lt;p&gt;El escritor Alejandro Manzano, autor local recientemente ganador del Programa Editorial Chihuahua, presentó su libro Archivo Trastorno en Plantar-té Cafetería.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el CBTis 122</title>
+      <link>http://localhost:1313/manzano/portfolio/at-cbtis-122/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-cbtis-122/</guid>
+      <description>&lt;p&gt;Presentación de Archivo Transtorno y La Fortuna de un Perro junto a César Ilzivir&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Café Icaro</title>
+      <link>http://localhost:1313/manzano/portfolio/at-icaro/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-icaro/</guid>
+      <description>&lt;p&gt;El escritor Alejandro Manzano, autor local recientemente ganador del Programa Editorial Chihuahua, presentó su libro Archivo Trastorno en el Café Ícaro&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Felich</title>
+      <link>http://localhost:1313/manzano/portfolio/at-feria-libro/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-feria-libro/</guid>
+      <description>&lt;p&gt;Participa Alejandro Manzano en el Felich con “Archivo Trastorno”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el CBTis 177 en Cuauthémoc</title>
+      <link>http://localhost:1313/manzano/portfolio/at-cbtis-177/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-cbtis-177/</guid>
+      <description>&lt;p&gt;Presentación de Archivo Transtorno y La Fortuna de un Perro junto a César Ilzivir&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archivo Transtorno en el Museo de la Ciudad de Cuauhtémoc</title>
+      <link>http://localhost:1313/manzano/portfolio/at-museo-cuau/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzano/portfolio/at-museo-cuau/</guid>
+      <description>&lt;p&gt;El viernes 11 de noviembre, a las 17:00 horas, en el Museo de la Ciudad, ubicado en el Parque Mirador, se presentará el libro “La fortuna de un perro”, de César Salazar, y el libro “Archivo trastorno”, de Alejandro Manzano. Ambos escritores son chihuahuenses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre Mi</title>
       <link>http://localhost:1313/manzano/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/manzano/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/manzano/images/portait-1a.jpg&#34; alt=&#34;Alejandro Manzano&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Escritor de ciencia-ficción, autor de la antología de cuentos Archivo Trastorno. Colección de Fragmentos (Programa Editorial Chihuahua, 2022; Laripse, 2023). Director de nueve talleres de Creación Literaria en Chihuahua, Chihuahua. Beneficiario del Fondo Municipal para Artistas y Creadores en 2024 (FOMAC 7).&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/manzano/images/portaits/2.jpg&#34; alt=&#34;Alejandro Manzano&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Escritor de ciencia-ficción, autor de la antología de cuentos Archivo Trastorno. Colección de Fragmentos (Programa Editorial Chihuahua, 2022; Laripse, 2023). Director de nueve talleres de Creación Literaria en Chihuahua, Chihuahua. Beneficiario del Fondo Municipal para Artistas y Creadores en 2024 (FOMAC 7).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
