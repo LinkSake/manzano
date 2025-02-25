@@ -1,5 +1,5 @@
 ---
-title: Sobre Mi
+title: Sobre Mí
 subtitle: "Subtitulo. Officia itaque laborum saepe. Non voluptate aspernatur modi quae."
 skipReadingTime: true
 ---

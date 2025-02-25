@@ -1,42 +1,32 @@
-{{ $title := .Get "title" }}
-{{ $img := .Get "img" }}
-{{ $cta := .Get "cta" }}
-
-
-{{ $parts := split .Inner "<!-- split -->" }}
-{{ $quote := index $parts 0 | markdownify }}
-{{ $content := "" }}
-{{ if gt (len $parts) 1 }}
-  {{ $content = index $parts 1 | markdownify }}
-{{ end }}
+{{ $title := .Get "title" }} {{ $img := .Get "img" }} {{ $cta := .Get "cta" }}
+{{ $parts := split .Inner "<!-- split -->" }} {{ $quote := index $parts 0 |
+markdownify }} {{ $content := "" }} {{ if gt (len $parts) 1 }} {{ $content =
+index $parts 1 | markdownify }} {{ end }}
 
 <div class="display">
-  {{ if $title }}
-    <h2 class="display-title">
-      {{ $title }}
-    </h2>
-  {{ end }}
-
-  <div class="display-img-quote">   
-    {{ if $img }}
-      <img src="{{ $img }}" class="display-img" alt="Portada de Archivo Transtorno" />
+    {{ if $title }}
+    <h2 class="display-title">{{ $title }}</h2>
     {{ end }}
 
-    <div class="display-quote">  
-      <div>{{ $quote }}</div>
-    </div>
-  </div>
+    <div class="display-img-quote">
+        {{ if $img }}
+        <img
+            src="{{ $img }}"
+            class="display-img"
+            alt="Portada de Archivo Trastorno"
+        />
+        {{ end }}
 
-  <div>
-    {{ $content }}
-  </div>
-  
-  
-  {{ if $cta }}
-    <div class="display-cta">
-      <a href="{{ $cta }}" target="_blank">
-        Obten el libro en Amazon
-      </a>
+        <div class="display-quote">
+            <div>{{ $quote }}</div>
+        </div>
     </div>
-  {{ end }}
+
+    <div style="text-align: justify">{{ $content }}</div>
+
+    {{ if $cta }}
+    <div class="display-cta">
+        <a href="{{ $cta }}" target="_blank"> Obtén el libro en Amazon </a>
+    </div>
+    {{ end }}
 </div>
